@@ -48,17 +48,133 @@
 
 + Git init: Create a new repertoire
 ```javascript
-Usuario@AERO MINGW64 ~/Desktop/Hola (master)
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
 $ git init
-Reinitialized existing Git repository in C:/Users/Usuario/Desktop/Hola/.git/
+Reinitialized existing Git repository in C:/Users/Usuario/Desktop/Prueba/.git/
 }
 ```
 ***
-+ Git add: This command can be used to add files
-+ Git clone: Used to review repertoires
-+ Git commit: Used to change the header
 + Git status: Shows the list of the files, along with the files that are about to be added
-+ Git log: Shows a list of commits in a branch along with all the details
-+ Git rm: It is used to remove files from the index and the directory you are working on
-+ Git mv: Used to move a file
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ nano bigdata.txt
 
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        bigdata.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+}
+```
+***
+
++ Git add: This command can be used to add files
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git add bigdata.txt
+warning: LF will be replaced by CRLF in bigdata.txt.
+The file will have its original line endings in your working directory
+}
+
+```
+***
+
++ Git commit: Used to change the header
+```javascript
+Usuario@AERO MINGW64 ~/Desktop (master)
+$ git commit --amend
+[master 2bbd870] Prueba123
+ Date: Fri Jan 31 13:03:20 2020 -0600
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+}
+```
+***
++ Git reset: Remove commits.
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git reset index.html
+Unstaged changes after reset:
+M       index.html
+
+Usuario@AERO MINGW64 ~/Desktop/Hola (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+}
+```
+***
+
++ Git log: Shows a list of commits in a branch along with all the details
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git log
+commit b77348c433f7a5fae9e5cdd591e22870544f4549 (HEAD -> master)
+Author: Andres Ramirez <aero.1715@hotmail.com>
+Date:   Fry Jan 30 21:39:05 2020 -0600
+
+    First project
+
+}
+```
+***
++ Git rm: It is used to remove files from the index and the directory you are working on
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git rm bigdata.txt
+rm 'bigdata.txt'
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    bigdata.txt
+
+}
+```
+***
++ Git mv: Used to move a file
+```javascript
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git mv Pagina1.html index.html
+
+Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    bigdata.txt
+        renamed:    Pagina1.html -> index.html
+}
+```
+***
++ Git commit --amend: We can modify the most recent confirmation and even combine changes.
+```javascript
+Usuario@AERO MINGW64 ~/Desktop (master)
+$ git commit --amend
+[master 2bbd870] Prueba123
+ Date: Fri Jan 31 13:03:20 2020 -0600
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+}
+```
