@@ -1,6 +1,6 @@
 # BigData2020UTM
 
-..* Big Data: is the storage or data set whose volume, speed, processing are much larger than a database.
++ Big Data: is the storage or data set whose volume, speed, processing are much larger than a database.
 
 ..* The importance of the data: Your data is important because if someone gets your data. You can impersonate your identity or even get your bank account and grab the money. Now that your data is already becoming digital, they have become much more important.
 
