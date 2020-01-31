@@ -47,6 +47,11 @@
 > Commands
 
 + Git init: Create a new repertoire
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+***
 + Git add: This command can be used to add files
 + Git clone: Used to review repertoires
 + Git commit: Used to change the header
