@@ -44,4 +44,14 @@
 + Lamba and Kappa: Its objective was to have a robust fault-tolerant system, both human and hardware, that was linearly scalable and that allowed writing and reading with low latency, while kappa points to "weak" Lambda Architecture and how to solve them through an evolution Your proposal is to eliminate the batch layer leaving only the streaming layer.
 ***
 
+# Commands
+
++ Git init: Create a new repertoire
++ Git add: This command can be used to add files
++ Git clone: Used to review repertoires
++ Git commit: Used to change the header
++ Git status: Shows the list of the files, along with the files that are about to be added
++ Git log: Shows a list of commits in a branch along with all the details
++ Git rm: It is used to remove files from the index and the directory you are working on
++ Git mv: Used to move a file
 
