@@ -48,8 +48,10 @@
 
 + Git init: Create a new repertoire
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+Usuario@AERO MINGW64 ~/Desktop/Hola (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/Usuario/Desktop/Hola/.git/
+}
 ```
 ***
 + Git add: This command can be used to add files
