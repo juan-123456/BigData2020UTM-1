@@ -44,7 +44,7 @@
 + Lamba and Kappa: Its objective was to have a robust fault-tolerant system, both human and hardware, that was linearly scalable and that allowed writing and reading with low latency, while kappa points to "weak" Lambda Architecture and how to solve them through an evolution Your proposal is to eliminate the batch layer leaving only the streaming layer.
 ***
 
-# Commands
+#> Commands
 
 + Git init: Create a new repertoire
 + Git add: This command can be used to add files
