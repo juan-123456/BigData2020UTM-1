@@ -125,7 +125,7 @@ Usuario@AERO MINGW64 ~/Desktop/Prueba (master)
 $ git log
 commit b77348c433f7a5fae9e5cdd591e22870544f4549 (HEAD -> master)
 Author: Andres Ramirez <aero.1715@hotmail.com>
-Date:   Fry Jan 30 21:39:05 2020 -0600
+Date:   Fri Jan 30 21:39:05 2020 -0600
 
     First project
 
