@@ -231,3 +231,6 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 The data transformation that takes place often involves several operations such as filtering, sorting, aggregation, data merging, data cleaning, duplication and data validation.
 
 
+![alt text](https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/etl.png)
+
+
