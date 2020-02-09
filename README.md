@@ -230,5 +230,5 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 
 
    ![alt text](https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/etl.png)
-Frecuentemente, las tres fases del proceso ETL se ejecutan en paralelo para ahorrar tiempo. Por ejemplo, mientras se extraen datos, puede que esté funcionando un proceso de transformación sobre los datos ya recibidos y de preparación para la carga, y puede que empiece a funcionar un proceso de carga sobre los datos preparados, en lugar de tener que esperar a que termine todo el proceso de extracción.
+Frequently, the three phases of the ETL process run in parallel to save time. For example, while data is being extracted, a transformation process on the data already received and preparation for loading may be working, and a load process may begin to work on the prepared data, instead of having to wait for That ends the entire extraction process.
 
