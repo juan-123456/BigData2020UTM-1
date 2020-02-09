@@ -178,3 +178,5 @@ $ git commit --amend
  create mode 100644 index.html
 }
 ```
+
+:closed_book:
