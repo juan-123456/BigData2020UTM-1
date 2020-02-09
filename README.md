@@ -184,13 +184,12 @@ $ git commit --amend
 + Data life cycle in BIG DATA: Given the characteristics of Big Data: volume, speed and variety; They require a different type of collection and analysis than any other type of data.
 The Big Data analysis presents a great challenge, not only for the management of a large amount of data but also for the need to know the life cycle of the data and establish a base based on the nature of the Big Data.
   - The phases of the data life cycle in Big Data are as follows:
-  
-    1. Análisis interno
-    2. Recogida y filtrado de datos
-    3. Extracción de datos
-    4. Validación y limpieza de los datos
-    5. Análisis de los datos
-    6. Visualización de los datos
+    - Análisis interno
+    - Recogida y filtrado de datos
+    - Extracción de datos
+    - Validación y limpieza de los datos
+    - Análisis de los datos
+    - Visualización de los datos
     
 
 
