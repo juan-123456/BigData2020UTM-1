@@ -183,7 +183,9 @@ $ git commit --amend
 
 + Data life cycle in BIG DATA: Given the characteristics of Big Data: volume, speed and variety; They require a different type of collection and analysis than any other type of data.
 The Big Data analysis presents a great challenge, not only for the management of a large amount of data but also for the need to know the life cycle of the data and establish a base based on the nature of the Big Data.
+  
   - The phases of the data life cycle in Big Data are as follows:
+    
     - Análisis interno
     - Recogida y filtrado de datos
     - Extracción de datos
@@ -192,4 +194,19 @@ The Big Data analysis presents a great challenge, not only for the management of
     - Visualización de los datos
     
 
++ Internal analysis: The Big Dara life cycle must begin with the understanding of the business and a justification of the need to carry out an analysis of this type, as well as the establishment of the objectives to be achieved. This stage of analysis allows us to understand the current situation of the company and what resources will be required throughout the analysis.
+Likewise, those KPIs necessary to understand the results of the analysis and their ability to meet the established goals and objectives must be established.
 
++ Data collection and filtering: This part of the Big Data Life Cycle is dedicated to identifying those data relevant to the analysis, identifying the sources to find patterns and correlations.
+The selection of data depends on the nature of the problem and the objectives established in the first part of the cycle. The data is collected and subjected to a filtering of corrupt data or data that does not respond to the established objectives.
+
++ Information extraction: The main objective of the data is to transform these into information. At this stage the data extraction and its transformation into an understandable format are carried out in order to perform a data analysis.
+
++ Validation and cleaning of data: Incorrect or invalid data can lead to false results that harm the analysis. The unstructured nature of Big Data makes their validation difficult. Therefore, this stage of the Big Data Life Cycle is essential, since it allows to reach the most relevant data for the objectives set.
+In addition, this analysis not only allows the discarding of invalid data, but the analysis and observation of said data allow establishing patterns and trends that contribute to improving the understanding of the data to be analyzed
+
++ Data analysis: At this stage the integration of data sets is developed in order to give a unified view of the information. Throughout this stage of the cycle several problems of data structure and labels can occur.
+
++ Data visualization: Once the data is organized, it is necessary to transform it into information that provides value. All the useful information extracted must be “translated” in the form of reports that allow the correct interpretation of these.
+
+http://www.example.com or <http://www.example.com>
