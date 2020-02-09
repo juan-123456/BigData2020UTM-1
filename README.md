@@ -179,4 +179,4 @@ $ git commit --amend
 }
 ```
 
-:closed_book:
+# second partial :closed_book::books:
