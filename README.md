@@ -237,3 +237,11 @@ Frequently, the three phases of the ETL process run in parallel to save time. Fo
 + Statistical data analysis: They are basically of 2 types, continuous data and discrete data. The continuous information is the one that cannot be told. For example, the intensity of a light can be measured but cannot be counted. Discreet information is what can be told. For example, you can count the number of bulbs.
 Continuous data in the analysis of statistical data is distributed under the function of continuous distribution, which can also be called the probability density function or fdp
 The discrete data in the statistical data analysis is distributed under the discrete distribution function, which can also be called the probabilized mass function fmp.
+
+***
+
++ Data flow diagram: Trace the flow of information for any process or system. It uses defined symbols, such as rectangles, circles and arrows, in addition to short text labels, to display data inputs and outputs, storage points and routes between each destination. The data flow diagrams can vary from simple process scenarios even hand-drawn, to very detailed DFD and with multiple levels that progressively deepen how the data is handled.
+
+ ![alt text](https://www.lifeder.com/wp-content/uploads/2019/11/diagrama-de-flujo-de-datos-lifeder.jpg)
+ 
+ 
