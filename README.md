@@ -227,6 +227,7 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 ***
 
 + Extraction, transformation and loading process(ETL): It is a data pipeline that is used to collect data from various sources, transform the data according to business rules and load it into a destination data store. Transformation work in ETL takes place in a specialized engine and often involves the use of temporary storage tables to temporarily retain data as they are transformed and eventually loaded into their destination.
+
 The data transformation that takes place often involves several operations such as filtering, sorting, aggregation, data merging, data cleaning, duplication and data validation.
 
 
