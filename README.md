@@ -209,4 +209,7 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 
 + Data visualization: Once the data is organized, it is necessary to transform it into information that provides value. All the useful information extracted must be “translated” in the form of reports that allow the correct interpretation of these.
 
-<https://piperlab.es/2019/05/14/el-ciclo-de-vida-de-los-datos-las-5-fases-para-llevar-a-exito-un-proyecto-de-big-data/>
+Reference: <https://piperlab.es/2019/05/14/el-ciclo-de-vida-de-los-datos-las-5-fases-para-llevar-a-exito-un-proyecto-de-big-data/>
+***
+
+
