@@ -215,12 +215,12 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 + WHAT IS EXPLORATORY DATA ANALYSIS?
   The Exploratory Data Analysis (A.E.D.) is a set of statistical techniques whose purpose is to achieve a basic understanding of the       data and the relationships between the analyzed variables. To achieve this goal the A.E.D. provides simple systematic methods for       organizing and preparing data, detecting failures in the design and collection of data, treatment and evaluation of missing data,       identification of atypical cases (outliers) and verification of the underlying assumptions in most of multivariate techniques           (normality, linearity, homocedasticity). The prior examination of the data is a necessary step, which takes time, and is usually         neglected by data analysts. The tasks implicit in such an examination may seem insignificant and without consequences at first sight,   but they are an essential part of any statistical analysis.
 
-  -STAGES OF THE A.E.D. To perform an A.E.D.
+  - STAGES OF THE A.E.D. To perform an A.E.D:
    
-   - Prepare the data to make them accessible to any statistical technique.
-   - Perform a graphic examination of the nature of the individual variables to be analyzed and a numerical descriptive analysis that        allows quantifying some graphic aspects of the data.
-   - Perform a graphic examination of the relationships between the analyzed variables and a numerical descriptive analysis that              quantifies the degree of interrelation between them.
-   - Evaluate, if necessary, some basic assumptions underlying many statistical techniques, such as normality, linearity and                  homoscedasticity.
-   - Identify possible atypical cases (outliers) and evaluate the potential impact they may have in subsequent statistical analyzes.
-   - Evaluate, if necessary, the potential impact that missing data may have on the representativeness of the analyzed data.
+    - Prepare the data to make them accessible to any statistical technique.
+    - Perform a graphic examination of the nature of the individual variables to be analyzed and a numerical descriptive analysis that         allows quantifying some graphic aspects of the data.
+    - Perform a graphic examination of the relationships between the analyzed variables and a numerical descriptive analysis that              quantifies the degree of interrelation between them.
+    - Evaluate, if necessary, some basic assumptions underlying many statistical techniques, such as normality, linearity and                  homoscedasticity.
+    - Identify possible atypical cases (outliers) and evaluate the potential impact they may have in subsequent statistical analyzes.
+    - Evaluate, if necessary, the potential impact that missing data may have on the representativeness of the analyzed data.
 
