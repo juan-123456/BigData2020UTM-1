@@ -226,7 +226,7 @@ In addition, this analysis not only allows the discarding of invalid data, but t
 
 ***
 
-+ Extraction, transformation and loading process(ETL): Extracción, transformación y carga (ETL) es una canalización de datos que se utiliza para recopilar datos de varios orígenes, transformar los datos según las reglas de negocio y cargarlos en un almacén de datos de destino. El trabajo de transformación en ETL tiene lugar en un motor especializado y, a menudo, implica el uso de tablas de almacenamiento temporal para conservar los datos temporalmente a medida que estos se transforman y, finalmente, se cargan en su destino.
-La transformación de datos que tiene lugar a menudo conlleva varias operaciones como filtrado, ordenación, agregación, combinación de datos, limpieza de datos, des duplicación y validación de datos.
++ Extraction, transformation and loading process(ETL): It is a data pipeline that is used to collect data from various sources, transform the data according to business rules and load it into a destination data store. Transformation work in ETL takes place in a specialized engine and often involves the use of temporary storage tables to temporarily retain data as they are transformed and eventually loaded into their destination.
+The data transformation that takes place often involves several operations such as filtering, sorting, aggregation, data merging, data cleaning, duplication and data validation.
 
 
