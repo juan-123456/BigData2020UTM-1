@@ -242,6 +242,6 @@ The discrete data in the statistical data analysis is distributed under the disc
 
 + Data flow diagram: Trace the flow of information for any process or system. It uses defined symbols, such as rectangles, circles and arrows, in addition to short text labels, to display data inputs and outputs, storage points and routes between each destination. The data flow diagrams can vary from simple process scenarios even hand-drawn, to very detailed DFD and with multiple levels that progressively deepen how the data is handled.
 
-               ![alt text](https://www.lifeder.com/wp-content/uploads/2019/11/diagrama-de-flujo-de-datos-lifeder.jpg)
+     ![alt text](https://www.lifeder.com/wp-content/uploads/2019/11/diagrama-de-flujo-de-datos-lifeder.jpg)
  
  
