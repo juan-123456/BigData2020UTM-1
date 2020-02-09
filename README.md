@@ -232,3 +232,8 @@ In addition, this analysis not only allows the discarding of invalid data, but t
    ![alt text](https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/etl.png)
 Frequently, the three phases of the ETL process run in parallel to save time. For example, while data is being extracted, a transformation process on the data already received and preparation for loading may be working, and a load process may begin to work on the prepared data, instead of having to wait for That ends the entire extraction process.
 
+***
+
++ Statistical data analysis: They are basically of 2 types, continuous data and discrete data. The continuous information is the one that cannot be told. For example, the intensity of a light can be measured but cannot be counted. Discreet information is what can be told. For example, you can count the number of bulbs.
+Continuous data in the analysis of statistical data is distributed under the function of continuous distribution, which can also be called the probability density function or fdp
+The discrete data in the statistical data analysis is distributed under the discrete distribution function, which can also be called the probabilized mass function fmp.
