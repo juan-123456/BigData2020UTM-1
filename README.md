@@ -181,6 +181,9 @@ $ git commit --amend
 ***
 # Second partial :books:
 
-Data life cycle in BIG DATA:
-Given the characteristics of Big Data: volume, speed and variety; They require a different type of collection and analysis than any other type of data.
++ Data life cycle in BIG DATA: Given the characteristics of Big Data: volume, speed and variety; They require a different type of collection and analysis than any other type of data.
 The Big Data analysis presents a great challenge, not only for the management of a large amount of data but also for the need to know the life cycle of the data and establish a base based on the nature of the Big Data.
+
+- The phases of the data life cycle in Big Data are as follows:
+
+
